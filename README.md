@@ -1,4 +1,4 @@
-API Rest para o app TradeMapClone destinado a Mentoria da Digital Inovation One
+API Rest para o app TradeMapClone 
 API para simular funcionalidades do TradeMap com integração ao Kafka para mostrar em tempo real valores das ações da B3.
 
 Tecnologias utilizadas na API:
